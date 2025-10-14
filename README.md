@@ -18,7 +18,7 @@ Uncamouflaged objects appear unclear due to motion or backlighting in Fig.(a), C
 ![](category1.png)
 
 ## Benchmark
-We compare the results with other instance segmentation methods on UCIS4K and UIIS dataset. From top to bottom: the original image is followed by ground truth and results of **[OSFormer](https://github.com/PJLallen/OSFormer),**, **CE-OST**, **DCNet**, **WaterMask**, **Mask2Former**, **SAM+bbox** and our **UCIS-SAM**. Each camouflaged instance is represented by a unique color. The first 4 columns are from our UCIS4K dataset, and the last 3 columns are from the UIIS dataset.
+We compare the results with other instance segmentation methods on UCIS4K and UIIS dataset. From top to bottom: the original image is followed by ground truth and results of **[OSFormer](https://github.com/PJLallen/OSFormer)**, **CE-OST**, **DCNet**, **[WaterMask](https://github.com/LiamLian0727/WaterMask)**, **Mask2Former**, **SAM+bbox** and our **UCIS-SAM**. Each camouflaged instance is represented by a unique color. The first 4 columns are from our UCIS4K dataset, and the last 3 columns are from the UIIS dataset.
 ![](Compare.png)
 [**OSFormer**](J. Pei, T. Cheng, D.-P. Fan, H. Tang, C. Chen, and L. Van Gool,
 “OSFormer: One-stage camouflaged instance segmentation with transformers,” in Proc. Eur. Conf. Comput. Vis. (ECCV). Springer, 2022,
