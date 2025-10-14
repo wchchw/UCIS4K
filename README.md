@@ -10,7 +10,7 @@ Created by **Chuhong Wang**, email: wangchuhong@hainanu.edu.cn
 **UCIS4K** is a **High-Quality** large-scale dataset consisting of **9000** images of underwater organisms from the public underwater datasets and images using camouflage-related keywords. <br> A total of **3953** images were selected by trained volunteers based on camouflage
 characteristics. These images were then annotated at the pixel level, with the results validated through a voting process among the volunteers. 
 Google drive: [UCIS4K](). **UCIS4K is free for academic research, not for any commercial purposes**.
-![](UCIS4K.png)<br>
+![](USIS4K.png)<br>
 **Note**: UCIS4K dataset includes camouflaged objects with similar colors and textures to the background,
 blurred contours, small sizes, multiple objects, occlusion, complex contours, transparency, and underwater scenes with light and shadow effects.
 ## UCIS4K dataset Examples
