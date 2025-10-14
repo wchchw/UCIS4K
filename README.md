@@ -7,18 +7,18 @@ Created by **Chuhong Wang**, email: wangchuhong@hainanu.edu.cn
 **! We are open to collaboration and are looking for self-motivated students. If you’re interested in this topic, please feel free to contact me via email.**
 
 ## UCIS4K dataset
-**UCIS4K** is a **High-Quality** large-scale dataset consisting of **9000** images of underwater organisms from the public underwater datasets and images using camouflage-related keywords. A total of **3953** images were selected by trained volunteers based on camouflage
+**UCIS4K** is a **High-Quality** large-scale dataset consisting of **9000** images of underwater organisms from the public underwater datasets and images using camouflage-related keywords. <br> A total of **3953** images were selected by trained volunteers based on camouflage
 characteristics. These images were then annotated at the pixel level, with the results validated through a voting process among the volunteers. 
 Google drive: [UCIS4K](). **UCIS4K is free for academic research, not for any commercial purposes**.
-![](UCIS4K.png)
+![](UCIS4K.png)<br>
 **Note**: UCIS4K dataset includes camouflaged objects with similar colors and textures to the background,
 blurred contours, small sizes, multiple objects, occlusion, complex contours, transparency, and underwater scenes with light and shadow effects.
 ## UCIS4K dataset Examples
 Uncamouflaged objects appear unclear due to motion or backlighting in Fig.(a), Color camouflaged objects in Fig.(b), Texture camouflaged objects in Fig.(c), Edge blur camouflaged objects in Fig. (d).
-![](category.png)
+![](category1.png)
 
 ## Benchmark
-We compare the results with other instance segmentation methods on UCIS4K and UIIS dataset. From top to bottom: the original image is followed by ground truth and results of OSFormer [11], CE-OST [19], DCNet [12], WaterMask [18], Mask2Former [49], SAM+bbox [21] and our UCIS-SAM. Each camouflaged instance is represented by a unique color. The first 4 columns are from our UCIS4K dataset, and the last 3 columns are from the UIIS dataset.
+We compare the results with other instance segmentation methods on UCIS4K and UIIS dataset. From top to bottom: the original image is followed by ground truth and results of OSFormer, CE-OST, DCNet, WaterMask, Mask2Former, SAM+bbox and our UCIS-SAM. Each camouflaged instance is represented by a unique color. The first 4 columns are from our UCIS4K dataset, and the last 3 columns are from the UIIS dataset.
 ![](Compare.png)
 [**OSFormer**](J. Pei, T. Cheng, D.-P. Fan, H. Tang, C. Chen, and L. Van Gool,
 “OSFormer: One-stage camouflaged instance segmentation with transformers,” in Proc. Eur. Conf. Comput. Vis. (ECCV). Springer, 2022,
