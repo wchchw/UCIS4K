@@ -22,17 +22,17 @@ We compare the results with other instance segmentation methods on UCIS4K and UI
 ![](Compare.png)
 [OSFormer](J. Pei, T. Cheng, D.-P. Fan, H. Tang, C. Chen, and L. Van Gool,
 “OSFormer: One-stage camouflaged instance segmentation with transformers,” in Proc. Eur. Conf. Comput. Vis. (ECCV). Springer, 2022,
-pp. 19–37.)
-[CE-OST](T.-D. Nguyen, D.-T. Luu, V.-T. Nguyen, and T. D. Ngo, “CE-OST: Contour emphasis for one-stage transformer-based camouflage instance segmentation,” in Proc. Int. Conf. Multimedia Anal. Pattern Recognit. (MAPR). IEEE, 2023, pp. 1–6.)
-[DCNet](N. Luo, Y. Pan, R. Sun, T. Zhang, Z. Xiong, and F. Wu, “Camouflaged instance segmentation via explicit de-camouflaging,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2023, pp. 17 918–17 927.)
+pp. 19–37.)<br>
+[CE-OST](T.-D. Nguyen, D.-T. Luu, V.-T. Nguyen, and T. D. Ngo, “CE-OST: Contour emphasis for one-stage transformer-based camouflage instance segmentation,” in Proc. Int. Conf. Multimedia Anal. Pattern Recognit. (MAPR). IEEE, 2023, pp. 1–6.)<br>
+[DCNet](N. Luo, Y. Pan, R. Sun, T. Zhang, Z. Xiong, and F. Wu, “Camouflaged instance segmentation via explicit de-camouflaging,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2023, pp. 17 918–17 927.)<br>
 [WaterMask](S. Lian, H. Li, R. Cong, S. Li, W. Zhang, and S. Kwong, “Watermask:
 Instance segmentation for underwater imagery,” in Proc. IEEE/CVF Int.
-Conf. Comput. Vis. (ICCV), 2023, pp. 1305–1315.)
+Conf. Comput. Vis. (ICCV), 2023, pp. 1305–1315.)<br>
 [Mask2Former](B. Cheng, I. Misra, A. G. Schwing, A. Kirillov, and R. Girdhar,
 “Masked-attention mask transformer for universal image segmentation,”
 in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2022,
-pp. 1290–1299.)
-[SAM+bbox](A. Kirillov, E. Mintun, N. Ravi, H. Mao, C. Rolland, L. Gustafson, T. Xiao, S. Whitehead, A. C. Berg et al., “Segment anything,” in Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV), 2023, pp. 4015–4026.)
+pp. 1290–1299.)<br>
+[SAM+bbox](A. Kirillov, E. Mintun, N. Ravi, H. Mao, C. Rolland, L. Gustafson, T. Xiao, S. Whitehead, A. C. Berg et al., “Segment anything,” in Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV), 2023, pp. 4015–4026.)<br>
 
 
 ## Bibliography entry
