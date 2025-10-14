@@ -1,4 +1,4 @@
-# UCIS4K
+# UCIS-SAM on UCIS4K
 Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset
 Source code and dataset for our paper “**[UCIS-SAM: Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset]()**” by Chuhong Wang,  Hua Li, Huazhong Liu, Xiongxin Tang, and Sam Kwong. 
 
