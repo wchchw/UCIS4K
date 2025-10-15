@@ -1,6 +1,6 @@
 # Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset
 
-Source code and dataset for our paper “**[Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset]()**” by Chuhong Wang,  Hua Li, Huazhong Liu, Xiongxin Tang, and Sam Kwong. 
+Source code and dataset for our paper “**[Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset]()**”.
 
 
 
