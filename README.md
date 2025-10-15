@@ -11,7 +11,7 @@ Google drive: [UCIS4K](). **UCIS4K is free for academic research, not for any co
 ![](USIS4K.png)<br>
 **Note**: UCIS4K dataset includes camouflaged objects with similar colors and textures to the background,
 blurred contours, small sizes, multiple objects, occlusion, complex contours, transparency, and underwater scenes with light and shadow effects.
-## MORE Examples
+## More Examples
 More visual samples of annotated images in UCIS4K. The images at the top are the original images and those at the bottom are the annotation
 masks, different colors represent different camouflaged instances.
 ![](datasets2.png)
