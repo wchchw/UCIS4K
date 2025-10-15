@@ -11,9 +11,10 @@ Google drive: [UCIS4K](). **UCIS4K is free for academic research, not for any co
 ![](USIS4K.png)<br>
 **Note**: UCIS4K dataset includes camouflaged objects with similar colors and textures to the background,
 blurred contours, small sizes, multiple objects, occlusion, complex contours, transparency, and underwater scenes with light and shadow effects.
-## UCIS4K dataset Examples
-Uncamouflaged objects appear unclear due to motion or backlighting in Fig.(a), Color camouflaged objects in Fig.(b), Texture camouflaged objects in Fig.(c), Edge blur camouflaged objects in Fig. (d).
-![](category1.png)
+## MORE Examples
+More visual samples of annotated images in UCIS4K. The images at the top are the original images and those at the bottom are the annotation
+masks, different colors represent different camouflaged instances.
+![](datasets2.png)
 
 ## Benchmark
 We compare the results with other instance segmentation methods on UCIS4K and UIIS datasets. From top to bottom: the original image is followed by ground truth and results of **[OSFormer](https://github.com/PJLallen/OSFormer)**, **CE-OST**, **DCNet**, **[WaterMask](https://github.com/LiamLian0727/WaterMask)**, **Mask2Former**, **SAM+bbox** and our **UCIS-SAM**. Each camouflaged instance is represented by a unique color. The first 4 columns are from our UCIS4K dataset, and the last 3 columns are from the UIIS dataset.
