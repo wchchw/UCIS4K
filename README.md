@@ -23,10 +23,14 @@ We compare the results with other instance segmentation methods on UCIS4K and UI
 ## Bibliography entry
 If you think our work is helpful, please cite
 ```
-@article{hong2025usis4k,
-  title={Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset},
-  journal={},
-  year={2025}
+@misc{wang2025exposecamouflagewaterunderwater,
+      title={Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset}, 
+      author={Chuhong Wang and Hua Li and Chongyi Li and Huazhong Liu and Xiongxin Tang and Sam Kwong},
+      year={2025},
+      eprint={2510.17585},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.17585}, 
 }
 ```
 
