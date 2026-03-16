@@ -7,7 +7,7 @@ Source code and dataset for our paper “**[Expose Camouflage in the Water: Unde
 ## UCIS4K dataset
 **UCIS4K** is the first dataset for the underwater camouflaged instance segmentation task. It comprises 3,953 images with instance-level annotations, featuring a diverse array of marine organisms, including fish, shrimp, crabs, and seahorses, across various camouflage scenarios.
 
-Google drive: [UCIS4K](). **UCIS4K is free for academic research, not for any commercial purposes**.
+Google drive: [UCIS4K](https://drive.google.com/uc?export=download&id=1OysCLJpqoBM1SM2NQ3R0Wpq3tZMffvI0). **UCIS4K is free for academic research, not for any commercial purposes**.
 ![](USIS4K.png)<br>
 **Note**: UCIS4K dataset includes camouflaged objects with similar colors and textures to the background,
 blurred contours, small sizes, multiple objects, occlusion, complex contours, transparency, and underwater scenes with light and shadow effects.
