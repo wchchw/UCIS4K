@@ -90,7 +90,7 @@ python tools/test.py \
 
 | Method | Dataset | AP | AP50 | AP75 | weight |
 |--------|--------|----|----------|-----|------|
-| UCIS-SAM | UCIS4K | 54.0 | 77.8 | 59.6 |[google]()|
+| UCIS-SAM | UCIS4K | 54.0 | 77.8 | 59.6 |[google](https://drive.google.com/file/d/1q9uqBSbVndQnGGsMwdCWseJG876VABQH/view?usp=drive_link)|
 
 **Qualitative results:**
 Comparison with other segmentation methods on UCIS4K and UIIS datasets. Each camouflaged instance is represented by a unique color. The first 4 columns are from our UCIS4K dataset, and the last 3 columns are from the UIIS dataset.
