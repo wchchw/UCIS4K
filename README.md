@@ -12,7 +12,7 @@ Source code and dataset for our paper “**[Expose Camouflage in the Water: Unde
 ⚠️ **License**: For academic research only (non-commercial use).
 
 <p align="center">
-  <img src="USIS4K.png" width="80%">
+  <img src="datasets1.png" width="80%">
 </p>
 
 🔍 **More Examples**
@@ -32,7 +32,7 @@ We propose **UCIS-SAM** for the underwater camouflaged instance segmentation (CI
 Comprehensive experiments on public benchmarks and the proposed **UCIS4K** dataset demonstrate the effectiveness of **UCIS-SAM**.
 
 <p align="center">
-  <img src="framework.png" width="80%">
+  <img src="framework.png" width="95%">
 </p>
 
 
@@ -92,10 +92,11 @@ python tools/test.py \
 |--------|--------|----|----------|-----|------|
 | UCIS-SAM | UCIS4K | 54.0 | 77.8 | 59.6 |[google]()|
 
-Qualitative results:
+**Qualitative results:**
+Comparison with other segmentation methods on UCIS4K and UIIS datasets. Each camouflaged instance is represented by a unique color. The first 4 columns are from our UCIS4K dataset, and the last 3 columns are from the UIIS dataset.
 
 <p align="center">
-  <img src="results1.png" width="80%">
+  <img src="result1.png" width="80%">
 </p>
 
 
