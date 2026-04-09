@@ -43,13 +43,17 @@ Comprehensive experiments on public benchmarks and the proposed **UCIS4K** datas
 - mmengine, mmcv >= 2.0.0, mmdetection >= 3.0  
 - transformers, timm, opencv-python  
 
-## 🛠️ Installation
 
+
+
+<!-- 
+## 🛠️ Installation
 ```bash
 conda env create -f environment.yml
 conda activate ucis
 pip install -r requirements.txt
 ```
+-->
 
 ## 🚀 Usage
 
