@@ -1,6 +1,6 @@
 # Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset
 
-Source code and dataset for our paper “**[Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset]()**”.
+Source code and dataset for our paper “**[Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset](https://ieeexplore.ieee.org/document/11455610)**”.
 
 
 
@@ -104,15 +104,16 @@ Comparison with other segmentation methods on UCIS4K and UIIS datasets. Each cam
 ## 📜 Citation
 If you find our work useful, please cite:
 ```
-@misc{wang2025exposecamouflagewaterunderwater,
-      title={Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset}, 
-      author={Chuhong Wang and Hua Li and Chongyi Li and Huazhong Liu and Xiongxin Tang and Sam Kwong},
-      year={2025},
-      eprint={2510.17585},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.17585}, 
-}
+@ARTICLE{11455610,
+  author={Wang, Chuhong and Li, Hua and Li, Chongyi and Liu, Huazhong and Tang, Xiongxin and Kwong, Sam},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset}, 
+  year={2026},
+  volume={35},
+  number={},
+  pages={3283-3298},
+  keywords={Instance segmentation;Image color analysis;Biological system modeling;Electronic mail;Faces;Distortion;Accuracy;Visualization;Training;Representation learning;Camouflaged instance segmentation;underwater camouflaged segmentation;segment anything model},
+  doi={10.1109/TIP.2026.3675502}}
 ```
 
 ## Acknowledgement
